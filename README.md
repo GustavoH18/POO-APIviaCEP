@@ -25,18 +25,29 @@ https://viacep.com.br/ws/01001000/json/
 O programa realiza as seguintes operações:
 
 *Define um CEP para consulta.
+
 *Verifica se o CEP possui oito dígitos numéricos.
+
 *Monta a URL de acesso à API ViaCEP.
+
 *Cria uma requisição HTTP do tipo GET.
+
 *Envia a requisição utilizando o HttpClient.
+
 *Recebe a resposta da API.
+
 *Exibe o código de status e os dados retornados em JSON.
+
 *Realiza o tratamento de possíveis erros.
 
 ## ▶️ Como executar o projeto
 
 *Baixe ou clone este repositório.
+
 *Abra o projeto no Eclipse IDE.
+
 *Certifique-se de utilizar Java 11 ou superior.
+
 *Abra a classe ConsumirCep.java.
+
 *Execute utilizando a opção Run As → Java Application.
