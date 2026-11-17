@@ -1,6 +1,6 @@
-#PROJETO: APIviacCEP
+# PROJETO: APIviaCEP
 
-##📖 Sobre o projeto
+## 📖 Sobre o projeto
 
 Este projeto foi realizado em sala de aula junto com o professor Willians Luiz Gomes. 
 
@@ -8,11 +8,11 @@ A aplicação realiza uma requisição HTTP para consultar informações de ende
 
 O projeto faz parte da atividade acadêmica de Programação Orientada a Objetos (POO).
 
-##🎯 Objetivo
+## 🎯 Objetivo
 
 Praticar conceitos de programação Java e integração com APIs externas, utilizando requisições HTTP para obter informações de endereços.
 
-##🌐 API utilizada
+## 🌐 API utilizada
 
 ViaCEP – Consulta de CEP
 
@@ -20,7 +20,7 @@ Exemplo de endereço utilizado na requisição:
 
 https://viacep.com.br/ws/01001000/json/
 
-##⚙️ Funcionamento
+## ⚙️ Funcionamento
 
 O programa realiza as seguintes operações:
 
@@ -33,7 +33,7 @@ O programa realiza as seguintes operações:
 *Exibe o código de status e os dados retornados em JSON.
 *Realiza o tratamento de possíveis erros.
 
-##▶️ Como executar o projeto
+## ▶️ Como executar o projeto
 
 *Baixe ou clone este repositório.
 *Abra o projeto no Eclipse IDE.
